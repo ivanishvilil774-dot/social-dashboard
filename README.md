@@ -108,5 +108,3 @@ This project was bootstrapped with Vite. For detailed information about Vite con
 React Compiler: Not enabled by default due to performance considerations in development. See React Compiler documentation for integration instructions.
 
 ESLint Configuration: The project uses ESLint with React plugins. For production applications, consider adding TypeScript and typescript-eslint for enhanced type safety.
-
-tex
